@@ -1,16 +1,8 @@
-# advanced_list_riverpod
+![Cover](https://cdn-images-1.medium.com/max/1600/1*Lh0MrNhwNn4WRSaCByTgCw.jpeg)
 
-A new Flutter project.
+# Write best performance Listviews with Riverpod in Flutter
+## Take your listviews to the next level and prevent unnecessary rebuilds in your app!
 
-## Getting Started
+More information about the project: [Medium](https://medium.com/@rei-codes/write-best-performance-listviews-with-riverpod-in-flutter-8bf6590ed8b8)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Animation](https://cdn-images-1.medium.com/max/1600/1*V_thTzhGyKEbunQI6k0YLg.gif)
